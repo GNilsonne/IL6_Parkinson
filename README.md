@@ -1,1 +1,2 @@
 # IL6_Parkinson
+This repository contains data and code for a research project. Data have been extracted from Qin et al. 2016: http://dx.doi.org/10.1001/jamaneurol.2016.2742. Code performs meta-analysis with DerSimonian-Laird and Restricted Maximum Likelihood estimators. Code also contains a number of other things that I have explored. The comparison between the two meta-analytic estimators has been reported in a letter to the editor submitted to JAMA Neurology.
